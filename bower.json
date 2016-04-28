@@ -1,0 +1,25 @@
+{
+  "name": "purescript-react-addons-css-transition-group",
+  "version": "0.1.0",
+  "main": "",
+  "keywords": [
+    "purescript",
+    "react",
+    "add-ons",
+    "addons",
+    "ReactCSSTransitionGroup",
+    "ReactTransitions"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purescript-contrib/purescript-react-addons-css-transition-group"
+  },
+  "license": "MIT",
+  "ignore": [
+    "*",
+    "!src/**/*"
+  ],
+  "dependencies": {
+    "purescript-react": "^0.7.1"
+  }
+}
