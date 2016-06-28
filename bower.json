@@ -19,6 +19,6 @@
     "!src/**/*"
   ],
   "dependencies": {
-    "purescript-react": "^0.7.1"
+    "purescript-react": "^1.0.0"
   }
 }
