@@ -1,5 +1,7 @@
-# purescript-react-addons-css-transition-group
+# DEPRECATED
 
-A PureScript interface to `ReactCSSTransitionGroup` for use with [`purescript-react`](https://github.com/purescript-contrib/purescript-react).
+This library has been deprecated as part of a purescript-contrib cleanup -- see [the full discussion on Discourse](https://discourse.purescript.org/t/proposed-purescript-contrib-library-deprecations) for more details.
 
-Please see [React's Animation documentation](https://facebook.github.io/react/docs/animation.html) for details concerning proper usage.  This API is byte-for-byte compatible.
+This library has been deprecated because the underlying React functionality has since been replaced by [react-transition-group](https://github.com/reactjs/react-transition-group) -- see the notice on the [addons-css-transition-group npm package](https://www.npmjs.com/package/react-addons-css-transition-group) for details. Authors writing React applications today would be better served using the new package via a foreign import instead of this library.
+
+Previous releases are still available.
